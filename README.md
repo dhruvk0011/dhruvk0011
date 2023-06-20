@@ -1,4 +1,6 @@
-![Header](./profile-header-image.png)
+<div align="center">
+  ![Header](./profile-header-image.png)
+</div>
 
 ###
 
