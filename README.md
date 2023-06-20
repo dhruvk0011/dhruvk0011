@@ -1,5 +1,5 @@
 <div align="center">
-  ![Header](./profile-header-image.png)
+  <img src="https://github.com/dhruvk0011/dhruvk0011/blob/main/profile-header-image.png" />
 </div>
 
 ###
