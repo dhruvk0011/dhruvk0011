@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Dhruv Khanna and I'm a Software Developer Trainee, from India.</h2>
+![Header](./your-header-image-name.png)
 
 ###
 
