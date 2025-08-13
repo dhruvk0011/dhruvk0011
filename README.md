@@ -50,11 +50,3 @@
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/u1WhXLjwgcXpHJBMRM/giphy.gif"  />
 </div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/dhruvk0011/count.svg?"  />
-</div>
-
-###
